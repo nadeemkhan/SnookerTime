@@ -38,9 +38,6 @@ You can download the latest release APK here:
 **Bill View**  
 ![Bill View](screenshots/sc-4.png)
 
-**Settings**  
-![Settings](screenshots/sc-5.png)
-
 ---
 
 ## 🚀 Getting Started
