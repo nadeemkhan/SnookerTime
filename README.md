@@ -26,17 +26,15 @@ You can download the latest release APK here:
 
 ## 📸 Screenshots
 
-**Home**  
-![Home](screenshots/sc-1.png)
+<p align="center">
+  <img src="screenshots/sc-1.png" alt="Home" width="45%"/>
+  <img src="screenshots/sc-2.png" alt="Add Game" width="45%"/>
+</p>
 
-**Add Game**  
-![Add Game](screenshots/sc-2.png)
-
-**Add Item**  
-![Add Item](screenshots/sc-3.png)
-
-**Bill View**  
-![Bill View](screenshots/sc-4.png)
+<p align="center">
+  <img src="screenshots/sc-3.png" alt="Add Item" width="45%"/>
+  <img src="screenshots/sc-4.png" alt="Bill View" width="45%"/>
+</p>
 
 ---
 
